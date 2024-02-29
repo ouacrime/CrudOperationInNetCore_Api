@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CrudOperationInNetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1159858E-28E6-4255-AA0D-BE01EC9F9540}|CrudOperationInNetCore\\CrudOperationInNetCore.csproj|c:\\users\\pc\\source\\repos\\crudoperationinnetcore\\crudoperationinnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1159858E-28E6-4255-AA0D-BE01EC9F9540}|CrudOperationInNetCore\\CrudOperationInNetCore.csproj|solutionrelative:crudoperationinnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1159858E-28E6-4255-AA0D-BE01EC9F9540}|CrudOperationInNetCore\\CrudOperationInNetCore.csproj|c:\\users\\pc\\source\\repos\\crudoperationinnetcore\\crudoperationinnetcore\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1159858E-28E6-4255-AA0D-BE01EC9F9540}|CrudOperationInNetCore\\CrudOperationInNetCore.csproj|solutionrelative:crudoperationinnetcore\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1159858E-28E6-4255-AA0D-BE01EC9F9540}|CrudOperationInNetCore\\CrudOperationInNetCore.csproj|c:\\users\\pc\\source\\repos\\crudoperationinnetcore\\crudoperationinnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1159858E-28E6-4255-AA0D-BE01EC9F9540}|CrudOperationInNetCore\\CrudOperationInNetCore.csproj|solutionrelative:crudoperationinnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1159858E-28E6-4255-AA0D-BE01EC9F9540}|CrudOperationInNetCore\\CrudOperationInNetCore.csproj|c:\\users\\pc\\source\\repos\\crudoperationinnetcore\\crudoperationinnetcore\\models\\brandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1159858E-28E6-4255-AA0D-BE01EC9F9540}|CrudOperationInNetCore\\CrudOperationInNetCore.csproj|solutionrelative:crudoperationinnetcore\\models\\brandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1159858E-28E6-4255-AA0D-BE01EC9F9540}|CrudOperationInNetCore\\CrudOperationInNetCore.csproj|c:\\users\\pc\\source\\repos\\crudoperationinnetcore\\crudoperationinnetcore\\migrations\\20240229121524_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1159858E-28E6-4255-AA0D-BE01EC9F9540}|CrudOperationInNetCore\\CrudOperationInNetCore.csproj|solutionrelative:crudoperationinnetcore\\migrations\\20240229121524_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1159858E-28E6-4255-AA0D-BE01EC9F9540}|CrudOperationInNetCore\\CrudOperationInNetCore.csproj|c:\\users\\pc\\source\\repos\\crudoperationinnetcore\\crudoperationinnetcore\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1159858E-28E6-4255-AA0D-BE01EC9F9540}|CrudOperationInNetCore\\CrudOperationInNetCore.csproj|solutionrelative:crudoperationinnetcore\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CrudOperationInNetCore\\CrudOperationInNetCore\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "CrudOperationInNetCore\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CrudOperationInNetCore\\CrudOperationInNetCore\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "CrudOperationInNetCore\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwFUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:37:50.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240229121524_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CrudOperationInNetCore\\CrudOperationInNetCore\\Migrations\\20240229121524_Initial.cs",
+              "RelativeDocumentMoniker": "CrudOperationInNetCore\\Migrations\\20240229121524_Initial.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CrudOperationInNetCore\\CrudOperationInNetCore\\Migrations\\20240229121524_Initial.cs",
+              "RelativeToolTip": "CrudOperationInNetCore\\Migrations\\20240229121524_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:15:25.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CrudOperationInNetCore\\CrudOperationInNetCore\\Program.cs",
+              "RelativeDocumentMoniker": "CrudOperationInNetCore\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CrudOperationInNetCore\\CrudOperationInNetCore\\Program.cs",
+              "RelativeToolTip": "CrudOperationInNetCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:10:53.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CrudOperationInNetCore\\CrudOperationInNetCore\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudOperationInNetCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CrudOperationInNetCore\\CrudOperationInNetCore\\appsettings.json",
+              "RelativeToolTip": "CrudOperationInNetCore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-29T12:06:27.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CrudOperationInNetCore\\CrudOperationInNetCore\\Models\\BrandContext.cs",
+              "RelativeDocumentMoniker": "CrudOperationInNetCore\\Models\\BrandContext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CrudOperationInNetCore\\CrudOperationInNetCore\\Models\\BrandContext.cs",
+              "RelativeToolTip": "CrudOperationInNetCore\\Models\\BrandContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:02:14.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CrudOperationInNetCore\\CrudOperationInNetCore\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "CrudOperationInNetCore\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CrudOperationInNetCore\\CrudOperationInNetCore\\Models\\Brand.cs",
+              "RelativeToolTip": "CrudOperationInNetCore\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:50:35.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
